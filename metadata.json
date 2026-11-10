@@ -1,0 +1,6 @@
+{
+  "name": "Ohmwise - Resistor Color-Band Reader",
+  "description": "Local-first resistor color-band reader with automatic computer vision scanning, draggable sampling markers, and 3-to-6 band decoder.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
